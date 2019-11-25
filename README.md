@@ -1,7 +1,7 @@
 ---
 title: "Home"
 author: "Kate Lawrenson, Marcos A. S. Fonseca, Felipe Segato, et. al."
-date: "November, 2018" 
+date: "November, 2019" 
 output: 
   html_document:
     smart: false
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ### Introduction
-This document contains workflows, explaining how to perform all analysis described in `A Dualistic Model for High-Grade Serous Ovarian Cancer Origins`.
+This document contains workflows, explaining how to perform all analysis described in `A Study of High-Grade Serous Ovarian Cancer Origins Implicates the SOX18 Transcription Factor in Tumor Development`.
 
 ### Document authors
 Marcos A. S. Fonseca & Felipe Segato.
